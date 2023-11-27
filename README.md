@@ -1,6 +1,6 @@
 # Project-10
 **TITLE;**  <br>
-Regional Analysis of AdventureWorks
+Regional Analysis of Adventure Works
 
 **PROJECT OVERVIEW:**  <br>
 The "Regional Analysis of AdventureWorks" repository contains a comprehensive sales analysis project developed using Power BI. The project aimed to analyze regional sales data from multiple sources and present insights through intuitive visualizations and interactive dashboards.
